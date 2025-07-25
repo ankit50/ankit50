@@ -43,8 +43,7 @@
 
 - 🌐 [ankitkharel.com.np](https://ankitkharel.com.np)
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/ankitkharel)
-- 🐦 [Twitter](https://twitter.com/ankitkharel_)
-- 📩 Email: ankitkharel.work@gmail.com
+
 
 > “Code is not just for machines — it’s a language for humans to create magic.”
 
